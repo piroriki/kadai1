@@ -145,10 +145,7 @@ video{object-fit: contain;}
                            height: 40px;
                            padding: 0 20px;}
 
-.firstview{background-image: none;
-           padding-top: 0;
-           padding-bottom: 35px;
-           background-image: url(url(//camp.potepan.com/wp-content/themes/potepancamp/assets/styles/../images/home/first-view/top-hero.jpg);
+.FirstView{background-image: url(//camp.potepan.com/wp-content/themes/potepancamp/assets/styles/../images/home/first-view/top-hero.jpg);
            background-size: cover;
            background-position: center;
            padding-top: 100px;
